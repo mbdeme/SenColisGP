@@ -21,3 +21,4 @@ yarn install
  // or
  yarn ios // yarn android
 ```
+![alt Accueil ](https://github.com/mbdeme/SenColisGP/blob/master/src/assets/Accueil_SenColisGP.png)
