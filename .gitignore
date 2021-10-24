@@ -9,5 +9,5 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-src/config/*
+src/configs/*
 
