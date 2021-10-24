@@ -1,6 +1,6 @@
 # Sen Colis GP
 
-Developed by mbdeme to facilitate sending parcels to Senegal
+Developed by mbdeme to :q
 
 ## How to use?
 
