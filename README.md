@@ -1,6 +1,6 @@
 # Sen Colis GP
 
-Developed by mbdeme to :q
+Developed by mbdeme with react native to facilitate the sending of parcels 
 
 ## How to use?
 
